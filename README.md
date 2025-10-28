@@ -17,10 +17,7 @@ I enjoy designing and building projects that integrate **hardware, software, and
 ---
 
 ### 🧰 Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,powershell,arduino,linux,raspberrypi,docker,aws,mysql,postgresql,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,powershell,arduino,linux,raspberrypi,docker,aws,mysql,postgresql,git,github,vscode" />
 
 ---
 
