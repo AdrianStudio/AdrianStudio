@@ -2,7 +2,7 @@
 
 **IT Technician | Cybersecurity Student | Robotics & Automation Enthusiast**  
 Barcelona, Spain  
-📧 atamargomiller@gmail.com  
+📧 tadri05m@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/adrian-daniel-tamargo-miller-35a017355) | [TryHackMe](https://tryhackme.com/p/tadri05m) | [GitHub](https://github.com/AdrianStudio)
 
 ---
