@@ -26,10 +26,7 @@ I enjoy designing and building projects that integrate **hardware, software, and
 
 ---
 
-### 📜 Certifications
-
-- **Cisco Networking Academy** – Introduction to Cybersecurity (2024)  
-- **PUE Academy** – Linux Essentials 010-160 (In progress)  
+### 📜 Certifications 
 
 ---
 
