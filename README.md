@@ -26,16 +26,6 @@ I enjoy designing and building projects that integrate **hardware, software, and
 
 ---
 
-### 🧠 Education
-
-**Institut Tecnològic de Barcelona**  
-*Higher National Diploma in Networked Systems Administration – Cybersecurity Pathway* (Ongoing)  
-
-**Institut Sants, Barcelona**  
-*Technological Baccalaureate* (2024)  
-
----
-
 ### 📜 Certifications
 
 - **Cisco Networking Academy** – Introduction to Cybersecurity (2024)  
@@ -58,20 +48,6 @@ This project showcases skills in **mechanical design, embedded programming, mobi
 
 ---
 
-### 🧰 Technical Skills
-
-| Category | Skills |
-|-----------|--------|
-| **Operating Systems** | Windows, Linux (Ubuntu, Kali) |
-| **Networking** | TCP/IP, DNS, DHCP, Routing (RIP, OSPF), VLANs |
-| **Security** | User management, permissions, firewall configuration |
-| **Programming** | Python, Bash, C++ (Arduino), PowerShell, PHP |
-| **Databases** | MySQL, PostgreSQL |
-| **Cloud** | Basic AWS concepts |
-| **Tools** | Git, GitHub, Wireshark, VirtualBox, Docker |
-
----
-
 ### 📈 GitHub Analytics
 
 <p align="center">
@@ -90,16 +66,6 @@ This project showcases skills in **mechanical design, embedded programming, mobi
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdrianStudio/AdrianStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-### 💬 Languages
-
-- English – Native  
-- Spanish – Native  
-- Catalan – C1  
-
----
 
 *“Technology, when understood deeply, is not just about systems — it’s about the humans who build and secure them.”*
 
