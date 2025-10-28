@@ -49,7 +49,3 @@ I enjoy designing and building projects that integrate **hardware, software, and
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdrianStudio&theme=flat&row=1&column=6" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdrianStudio/AdrianStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
