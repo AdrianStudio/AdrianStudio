@@ -25,21 +25,6 @@ I enjoy designing and building projects that integrate **hardware, software, and
 
 ---
 
-### 🔬 Featured Project: Robotic Arm with Arduino
-
-**Project Title:** *Construction of a Robotic Arm – Design, Assembly, and Programming*  
-**Languages/Tools:** Arduino IDE, Tinkercad, App Inventor, 3D Printing  
-
-This project focused on the full development of a **3D-printed robotic arm**, controlled via a **custom Android application** connected through Bluetooth.  
-The arm features **five degrees of freedom**, combining MG996R and SG90 servo motors, and was programmed using **Arduino C++**.  
-
-The control app allows real-time manual movement, recording, and automated playback of motion sequences.  
-This project showcases skills in **mechanical design, embedded programming, mobile control systems, and signal integration**.
-
-> 🔗 [View Repository](https://github.com/AdrianStudio/RoboticArm)
-
----
-
 ### 📈 GitHub Analytics
 
 <p align="center">
