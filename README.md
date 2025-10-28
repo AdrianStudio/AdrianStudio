@@ -66,12 +66,3 @@ This project showcases skills in **mechanical design, embedded programming, mobi
 <p align="center">
   <img src="https://raw.githubusercontent.com/AdrianStudio/AdrianStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-*“Technology, when understood deeply, is not just about systems — it’s about the humans who build and secure them.”*
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdrianStudio/AdrianStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
