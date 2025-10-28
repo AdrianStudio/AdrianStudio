@@ -16,6 +16,16 @@ I enjoy designing and building projects that integrate **hardware, software, and
 
 ---
 
+### 🧠 Skills
+
+- **Cybersecurity & Systems:** Linux administration, network security, user permissions, and system hardening.  
+- **Networking:** LAN/WAN setup, subnetting, VLANs, routing (RIP, OSPF, NAT), DHCP/DNS.  
+- **Programming & Automation:** Python scripting, Bash, PowerShell, and Arduino C++ for embedded systems.  
+- **Databases:** MySQL and PostgreSQL management.  
+- **Tools:** Git, Docker, AWS (basic), Wireshark, VirtualBox, Raspberry Pi.
+
+---
+
 ### 🧰 Languages and Tools
 <img src="https://skillicons.dev/icons?i=python,cpp,bash,powershell,arduino,linux,raspberrypi,docker,aws,mysql,postgresql,git,github,vscode" />
 
