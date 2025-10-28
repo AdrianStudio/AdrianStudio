@@ -1,65 +1,104 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#00FFAA;">Adrián</span></h1>
-<h3 align="center">🔐 Estudiante de Ciberseguridad | 🧠 Ethical Hacker en formación | 💻 Python & Linux lover</h3>
+# Adrian Tamargo Miller
+
+**IT Technician | Cybersecurity Student | Robotics & Automation Enthusiast**  
+Barcelona, Spain  
+📧 atamargomiller@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [TryHackMe](https://tryhackme.com/p/yourprofile) | [GitHub](https://github.com/AdrianStudio)
 
 ---
 
-### 🚀 Sobre mí
-- 🎓 Estudiante de **Ciberseguridad**
-- 💡 Interesado en **Pentesting, OSINT, Seguridad en redes y Hacking ético**
-- 🧰 Me gusta crear herramientas en **Python y Bash**
-- 🌱 Actualmente aprendiendo **Análisis forense y scripting ofensivo**
-- ⚡ Fun fact: A veces rompo cosas... pero por seguridad 😎
+### 🧩 About Me
+
+I am an IT technician and cybersecurity student with a strong interest in automation, system security, and robotics.  
+My experience ranges from network administration and Linux systems management to programming, embedded systems, and applied robotics.
+
+I enjoy designing and building projects that integrate **hardware, software, and cybersecurity concepts**, applying technical knowledge to solve real-world problems efficiently and securely.
 
 ---
 
-### 🧠 Certificaciones y progreso
-- 🧩 TryHackMe: [Mi perfil](https://tryhackme.com/p/TU_USUARIO)
-- 💻 Cisco CyberOps (en progreso)
-- 📜 Google IT Security Fundamentals
+### 🎯 Professional Focus
+
+- **Cybersecurity** – Network hardening, Linux administration, threat analysis.  
+- **Systems Administration** – Windows and Linux systems, Active Directory, and virtualization.  
+- **Networking** – LAN/WAN configuration, routing protocols (RIP, OSPF, NAT), and subnetting.  
+- **Programming** – Bash, Python, C++ (Arduino), PowerShell, PHP.  
+- **Automation & Robotics** – Arduino-based mechanical systems, IoT concepts, and control apps.
 
 ---
 
-### 🛠️ Stack tecnológico
+### 🧠 Education
+
+**Institut Tecnològic de Barcelona**  
+*Higher National Diploma in Networked Systems Administration – Cybersecurity Pathway* (Ongoing)  
+
+**Institut Sants, Barcelona**  
+*Technological Baccalaureate* (2024)  
+
+---
+
+### 📜 Certifications
+
+- **Cisco Networking Academy** – Introduction to Cybersecurity (2024)  
+- **PUE Academy** – Linux Essentials 010-160 (In progress)  
+
+---
+
+### 🔬 Featured Project: Robotic Arm with Arduino
+
+**Project Title:** *Construction of a Robotic Arm – Design, Assembly, and Programming*  
+**Languages/Tools:** Arduino IDE, Tinkercad, App Inventor, 3D Printing  
+
+This project focused on the full development of a **3D-printed robotic arm**, controlled via a **custom Android application** connected through Bluetooth.  
+The arm features **five degrees of freedom**, combining MG996R and SG90 servo motors, and was programmed using **Arduino C++**.  
+
+The control app allows real-time manual movement, recording, and automated playback of motion sequences.  
+This project showcases skills in **mechanical design, embedded programming, mobile control systems, and signal integration**.
+
+> 🔗 [View Repository](https://github.com/AdrianStudio/RoboticArm)
+
+---
+
+### 🧰 Technical Skills
+
+| Category | Skills |
+|-----------|--------|
+| **Operating Systems** | Windows, Linux (Ubuntu, Kali) |
+| **Networking** | TCP/IP, DNS, DHCP, Routing (RIP, OSPF), VLANs |
+| **Security** | User management, permissions, firewall configuration |
+| **Programming** | Python, Bash, C++ (Arduino), PowerShell, PHP |
+| **Databases** | MySQL, PostgreSQL |
+| **Cloud** | Basic AWS concepts |
+| **Tools** | Git, GitHub, Wireshark, VirtualBox, Docker |
+
+---
+
+### 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker,html,css,js" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianStudio&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianStudio&theme=default" height="160" />
 </p>
 
 ---
 
-### 📊 Estadísticas
+### ⚙️ Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianStudio&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianStudio&theme=radical" alt="streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdrianStudio&theme=flat&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdrianStudio/AdrianStudio/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 💬 Encuéntrame en:
-<p align="center">
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/TU_USUARIO"><img src="https://img.shields.io/badge/TryHackMe-darkred?logo=tryhackme&logoColor=white" /></a>
-  <a href="https://www.hackthebox.com/user/TU_ID"><img src="https://img.shields.io/badge/HackTheBox-green?logo=hackthebox&logoColor=white" /></a>
-</p>
+### 💬 Languages
+
+- English – Native  
+- Spanish – Native  
+- Catalan – C1  
 
 ---
 
-### 🧩 Proyectos destacados
-🔹 [PortScanner en Python](https://github.com/AdrianStudio/PortScanner)  
-🔹 [Honeypot básico](https://github.com/AdrianStudio/HoneyFlask)  
-🔹 [Análisis de logs de Apache](https://github.com/AdrianStudio/LogHunter)
-
----
-
-### 🎯 Animaciones y estilo
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=600&lines=Hacker+Ético+en+proceso;Ciberseguridad+%7C+Python+%7C+Linux;Aprendiendo+y+rompiendo+cosas;Bienvenido+a+mi+perfil!"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrianStudio&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-⭐ ¡Gracias por pasarte! Dale una vuelta a mis proyectos 😉
+*“Technology, when understood deeply, is not just about systems — it’s about the humans who build and secure them.”*
