@@ -16,13 +16,11 @@ I enjoy designing and building projects that integrate **hardware, software, and
 
 ---
 
-### 🎯 Professional Focus
+### 🧰 Languages and Tools
 
-- **Cybersecurity** – Network hardening, Linux administration, threat analysis.  
-- **Systems Administration** – Windows and Linux systems, Active Directory, and virtualization.  
-- **Networking** – LAN/WAN configuration, routing protocols (RIP, OSPF, NAT), and subnetting.  
-- **Programming** – Bash, Python, C++ (Arduino), PowerShell, PHP.  
-- **Automation & Robotics** – Arduino-based mechanical systems, IoT concepts, and control apps.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,powershell,arduino,linux,raspberrypi,docker,aws,mysql,postgresql,git,github,vscode" />
+</p>
 
 ---
 
