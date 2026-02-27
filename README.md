@@ -1,6 +1,6 @@
 # Adrian Tamargo Miller
 
-**Systems Administrator (N2) | Infrastructure & Cloud | Virtualization | Monitoring | Cybersecurity**
+**Systems Administrator (N2) | Virtualization | Cloud | Infrastructure**
 
 Barcelona, Spain  
 📧 tadri05m@gmail.com  
@@ -10,131 +10,82 @@ Barcelona, Spain
 
 ## 🧑‍💻 About Me
 
-Systems Administrator (N2) with hands-on experience managing enterprise infrastructure, virtualization platforms, cloud environments, and monitoring systems. Currently working with VMware vSphere, Microsoft 365, Active Directory, Citrix, Zabbix, Grafana, and backup platforms in a managed services environment.
+Systems Administrator (N2) working with enterprise infrastructure, virtualization, cloud platforms, and monitoring systems. Daily experience with VMware vSphere, Microsoft 365, Active Directory, Citrix, Zabbix, and backup platforms.
 
-Experienced in virtual machine lifecycle management, mailbox administration and recovery, infrastructure monitoring, storage expansion, and technical troubleshooting across Windows and Linux environments.
-
-Actively developing a personal HomeLab based on TrueNAS SCALE, focused on private cloud services, virtualization storage, monitoring, and secure remote access.
+Focused on infrastructure management, troubleshooting, storage, and cloud services. Also building and maintaining my own HomeLab based on TrueNAS SCALE for private cloud, monitoring, and secure remote access.
 
 ---
 
-## ⚙️ Core Skills
+## ⚙️ Skills
 
 **Infrastructure & Virtualization**
-- VMware vSphere / vCenter management
-- VM provisioning, disk expansion, and decommissioning
-- Storage management and capacity analysis
-- TrueNAS SCALE administration (ZFS, snapshots, storage pools)
+- VMware vSphere / vCenter
+- VM deployment, disk expansion, and lifecycle management
+- Storage analysis and capacity management
+- TrueNAS SCALE and ZFS storage
 
 **Cloud & Identity**
-- Microsoft 365 Admin Center
-- Exchange Online (PowerShell, mailbox restore, permissions)
+- Microsoft 365 and Exchange Online
 - Active Directory administration
-- Azure (identity and cloud fundamentals)
-- Google Workspace administration
+- Azure and Google Workspace basics
 
-**Monitoring & Observability**
-- Zabbix (host management, triggers, metrics analysis)
-- Grafana dashboards and monitoring visualization
-- Infrastructure performance analysis (CPU, RAM, disk)
+**Monitoring**
+- Zabbix monitoring and troubleshooting
+- Grafana dashboards and metrics analysis
 
-**Systems Administration**
+**Systems**
 - Windows Server administration
-- Linux server administration (Debian, Ubuntu)
-- Disk analysis and storage management
-- Backup platforms (Veeam, Acronis)
+- Linux server administration (Debian / Ubuntu)
+- Backup management (Veeam, Acronis)
 
 **Networking**
-- TCP/IP, DNS, DHCP
-- VLANs and subnetting
-- Network troubleshooting and connectivity analysis
-- VPN configuration (WireGuard)
+- TCP/IP, DNS, DHCP, VLANs
+- Network troubleshooting
+- WireGuard VPN
 
-**Cybersecurity**
-- System hardening
-- Vulnerability analysis (OpenVAS, Nmap)
-- Authentication and permissions management
-- Security monitoring concepts
+**Security**
+- System hardening basics
+- Vulnerability scanning (Nmap, OpenVAS)
+- Permissions and access management
 
 ---
 
-## 🧪 HomeLab Project – Private Infrastructure (TrueNAS SCALE)
+## 🧪 HomeLab Project – TrueNAS SCALE
 
-**Platform:** HP ProDesk 600 G2 | Hybrid SSD/NVMe/HDD Storage
+HP ProDesk 600 G2 with hybrid SSD/NVMe/HDD storage.
 
-Implemented a scalable private infrastructure including:
-
-- Private cloud using Nextcloud (self-hosted alternative to iCloud)
-- Virtual machine storage and management
-- Infrastructure monitoring using Zabbix and Grafana
-- Network-level protection using Pi-hole
-- Secure remote access via WireGuard VPN
-- Snapshot management and storage redundancy using ZFS
-- Architecture prepared for container workloads and additional services
+Includes:
+- Private cloud with Nextcloud
+- VM storage and infrastructure lab
+- Monitoring with Zabbix and Grafana
+- Network control with Pi-hole
+- Secure remote access via WireGuard
+- Snapshots and scalable storage architecture
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### Infrastructure & Systems
-![VMware](https://skillicons.dev/icons?i=linux,windows,docker)
+![Tech](https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,docker,git,github,vscode,mysql,postgres,azure,aws)
 
-### Cloud & Identity
-![Cloud](https://skillicons.dev/icons?i=azure,aws)
-
-### Monitoring & Networking
-![Monitoring](https://skillicons.dev/icons?i=grafana)
-
-### Programming & Automation
-![Programming](https://skillicons.dev/icons?i=python,bash,powershell)
-
-### Databases
-![Databases](https://skillicons.dev/icons?i=mysql,postgres)
-
-### Development & Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+**Other tools:**
+VMware vSphere · Microsoft 365 · Exchange Online · Active Directory · Citrix · Zabbix · Grafana · TrueNAS SCALE · Veeam · Acronis · Nextcloud · Pi-hole · WireGuard
 
 ---
 
-## 🧠 Additional Technologies
+## 📚 Certifications & Education
 
-- VMware vSphere / vCenter  
-- Microsoft Exchange Online (PowerShell)  
-- Microsoft 365 Administration  
-- Active Directory  
-- Citrix Workspace / Citrix Cloud  
-- Zabbix / Grafana  
-- TrueNAS SCALE  
-- Veeam Backup  
-- Acronis Backup  
-- Nextcloud  
-- Pi-hole  
-- WireGuard VPN  
+Higher National Diploma in Systems Administration (ASIX)
 
----
-
-## 🎯 Current Focus
-
-- Infrastructure and systems administration  
-- Cloud and virtualization environments  
-- Monitoring and observability  
-- Private cloud and storage systems  
-- Cybersecurity and infrastructure hardening  
-
----
-
-## 📚 Certifications & Training
-
-- TryHackMe Cybersecurity 101
-- TryHackMe Jr Penetration Tester (in progress)
-- CompTIA CySA+ (in progress)
-- Higher National Diploma in Systems Administration (ASIX)
+TryHackMe Cybersecurity 101  
+TryHackMe Jr Penetration Tester (in progress)  
+CompTIA CySA+ (in progress)
 
 ---
 
 ## 🌍 Languages
 
-- Spanish: Native  
-- English: Professional  
-- Catalan: Professional  
-- German: Basic (A1)
+Spanish: Native  
+English: Professional  
+Catalan: Professional  
+German: Basic (A1)
