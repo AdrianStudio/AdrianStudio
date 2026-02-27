@@ -78,7 +78,6 @@ VMware vSphere · Microsoft 365 · Exchange Online · Active Directory · Citrix
 Higher National Diploma in Systems Administration (ASIX)
 
 TryHackMe Cybersecurity 101  
-TryHackMe Jr Penetration Tester (in progress)  
 CompTIA CySA+ (in progress)
 
 ---
