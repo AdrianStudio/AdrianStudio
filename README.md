@@ -37,7 +37,6 @@ British & Spanish citizen. Long-term goal: London.
 - AZ-900: Microsoft Azure Fundamentals — Microsoft (April 2026)
 - AZ-104: Microsoft Azure Administrator — In Progress
 - CKA: Certified Kubernetes Administrator — In Progress
-- Cambridge B2 First — Cambridge Assessment English
 - Cybersecurity 101 — TryHackMe (2025)
 ---
  
