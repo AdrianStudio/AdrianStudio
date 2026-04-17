@@ -1,90 +1,53 @@
-# Adrian Tamargo Miller
-
-**Systems Administrator (N2) | Virtualization | Cloud | Infrastructure**
-
-Barcelona, Spain  
-📧 tadri05m@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/adrian-daniel-tamargo-miller-35a017355) | [TryHackMe](https://tryhackme.com/p/tadri05m) | [GitHub](https://github.com/AdrianStudio)
-
+# Adrián Tamargo
+ 
+Systems Administrator L2 at [beServices](https://beservices.es), a Microsoft & Google MSP in Barcelona — managing enterprise virtualisation (+350 VMs on VMware vSphere), Citrix Cloud, Exchange Online migrations, Active Directory and multi-client monitoring across live production environments.
+ 
+Currently studying for AZ-104 and CKA while building out my homelab and working toward a Cloud Engineer role.
+ 
+British & Spanish citizen. Long-term goal: London.
+ 
 ---
-
-## 🧑‍💻 About Me
-
-Systems Administrator (N2) working with enterprise infrastructure, virtualization, cloud platforms, and monitoring systems. Daily experience with VMware vSphere, Microsoft 365, Active Directory, Citrix, Zabbix, and backup platforms.
-
-Focused on infrastructure management, troubleshooting, storage, and cloud services. Also building and maintaining my own HomeLab based on TrueNAS SCALE for private cloud, monitoring, and secure remote access.
-
+ 
+## What I work with daily
+ 
+**At work (beServices MSP)**
+- VMware vSphere 8 · Proxmox VE · Citrix Cloud (VAD)
+- Microsoft 365 · Exchange Online (EXO v3 PowerShell) · Google Workspace
+- Active Directory · Entra ID · Intune · Autopilot
+- SentinelOne EDR · Veeam · Acronis · Zabbix · Grafana · Datto RMM
+**In the homelab**
+- Proxmox VE — bare metal hypervisor with VM/LXC stack
+- K3s — 3-node Kubernetes cluster on Raspberry Pi 4
+- ArgoCD · Gitea · Authentik (OAuth2/OIDC SSO)
+- Windows Server 2022 — AD DS, PKI, LDAPS, AD Connect
+- Tailscale mesh VPN · Nginx Proxy Manager · Pi-hole
+- Grafana · Prometheus · Node Exporter
 ---
-
-## ⚙️ Skills
-
-**Infrastructure & Virtualization**
-- VMware vSphere / vCenter
-- VM deployment, disk expansion, and lifecycle management
-- Storage analysis and capacity management
-- TrueNAS SCALE and ZFS storage
-
-**Cloud & Identity**
-- Microsoft 365 and Exchange Online
-- Active Directory administration
-- Azure and Google Workspace basics
-
-**Monitoring**
-- Zabbix monitoring and troubleshooting
-- Grafana dashboards and metrics analysis
-
-**Systems**
-- Windows Server administration
-- Linux server administration (Debian / Ubuntu)
-- Backup management (Veeam, Acronis)
-
-**Networking**
-- TCP/IP, DNS, DHCP, VLANs
-- Network troubleshooting
-- WireGuard VPN
-
-**Security**
-- System hardening basics
-- Vulnerability scanning (Nmap, OpenVAS)
-- Permissions and access management
-
+ 
+## What I'm building
+ 
+- **GitOps pipeline** — Gitea + ArgoCD + K3s
+- **Terraform** — provisioning LXCs on Proxmox and resources on Azure
+- **Azure Arc** — registering the K3s cluster for hybrid cloud management
+- **homelab-ops** — public repo with all manifests, IaC and architecture docs (coming soon)
 ---
-
-## 🧪 HomeLab Project – TrueNAS SCALE
-
-HP ProDesk 600 G2 with hybrid SSD/NVMe/HDD storage.
-
-Includes:
-- Private cloud with Nextcloud
-- VM storage and infrastructure lab
-- Monitoring with Zabbix and Grafana
-- Network control with Pi-hole
-- Secure remote access via WireGuard
-- Snapshots and scalable storage architecture
-
+ 
+## Certifications
+ 
+- AZ-900: Microsoft Azure Fundamentals — Microsoft (April 2026)
+- AZ-104: Microsoft Azure Administrator — In Progress
+- CKA: Certified Kubernetes Administrator — In Progress
+- Cambridge B2 First — Cambridge Assessment English
+- Cybersecurity 101 — TryHackMe (2025)
 ---
-
-## 🛠️ Technologies & Tools
-
-![Tech](https://skillicons.dev/icons?i=linux,windows,python,bash,powershell,docker,git,github,vscode,mysql,postgres,azure,aws)
-
-**Other tools:**
-VMware vSphere · Microsoft 365 · Exchange Online · Active Directory · Citrix · Zabbix · Grafana · TrueNAS SCALE · Veeam · Acronis · Nextcloud · Pi-hole · WireGuard
-
+ 
+## Education
+ 
+- BSc Computer Engineering — Universitat Oberta de Catalunya (UOC) · Starting Sept 2026
+- CFGS Networked Systems Administration — Institut Tecnològic de Barcelona · 2024–2026
 ---
-
-## 📚 Certifications & Education
-
-Higher National Diploma in Systems Administration (ASIX)
-
-TryHackMe Cybersecurity 101  
-CompTIA CySA+ (in progress)
-
----
-
-## 🌍 Languages
-
-Spanish: Native  
-English: Professional  
-Catalan: Professional  
-German: Basic (A1)
+ 
+## Find me
+ 
+- LinkedIn: [linkedin.com/in/adrian-tamargo](https://linkedin.com/in/adrian-tamargo)
+- Email: tadri05m@gmail.com
