@@ -67,8 +67,6 @@ Outside of work I'm deep into my homelab — a bare-metal Proxmox setup with a 3
 - **AZ-900** Microsoft Azure Fundamentals — April 2026
 - **AZ-104** Microsoft Azure Administrator — In Progress
 - **CKA** Certified Kubernetes Administrator — In Progress
-- **Cambridge B2 First** — Cambridge Assessment English
-- **Cybersecurity 101** — TryHackMe 2025
 
 &nbsp;
 
