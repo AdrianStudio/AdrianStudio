@@ -12,7 +12,7 @@ British & Spanish. Long-term goal: London.
 
 I spend my days managing +350 VMs on VMware vSphere, deploying Citrix Cloud environments, running Exchange Online and Google Workspace migrations, and keeping multi-client infrastructure healthy across AD, Entra ID, Zabbix and Grafana.
 
-Outside of work I'm deep into my homelab — a bare-metal Proxmox setup with a 3-node K3s cluster on Raspberry Pi, self-hosted services, GitOps pipelines and a Windows Server 2022 domain. Building everything in public.
+Outside of work I'm deep into my homelab, a bare-metal Proxmox setup with a 3-node K3s cluster on Raspberry Pi, self-hosted services, GitOps pipelines and a Windows Server 2022 domain. Building everything in public.
 
 ---
 
