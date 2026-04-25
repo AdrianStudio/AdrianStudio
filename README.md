@@ -1,18 +1,28 @@
-# Hey, I'm Adrián 👋
+# Hey, I'm Adrián
 
 Sysadmin L2 at beServices, an MSP in Barcelona focused on Microsoft and Google environments. I manage enterprise virtualisation, cloud migrations and multi-client infrastructure in production — then go home and rebuild it all in my homelab.
 
 British & Spanish. Long-term goal: London.
 
-&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=AdrianStudio&color=6A0DAD&style=flat)
+
+---
 
 ## About Me
 
 I spend my days managing +350 VMs on VMware vSphere, deploying Citrix Cloud environments, running Exchange Online and Google Workspace migrations, and keeping multi-client infrastructure healthy across AD, Entra ID, Zabbix and Grafana.
 
-Outside of work I'm deep into my homelab — a bare-metal Proxmox setup with a 3-node K3s cluster on Raspberry Pi, self-hosted services, GitOps pipelines and a Windows Server 2022 domain. Currently working toward AZ-104 and CKA, and building everything in public.
+Outside of work I'm deep into my homelab — a bare-metal Proxmox setup with a 3-node K3s cluster on Raspberry Pi, self-hosted services, GitOps pipelines and a Windows Server 2022 domain. Building everything in public.
 
-&nbsp;
+---
+
+## Currently Studying
+
+![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft%20Azure%20Administrator-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AZ-305](https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
 
 ## Tech Stack
 
@@ -41,37 +51,37 @@ Outside of work I'm deep into my homelab — a bare-metal Proxmox setup with a 3
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logoColor=white)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-6A0DAD?style=flat&logoColor=white)
 
 **Scripting & IaC**
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
-&nbsp;
+---
 
-## What I'm Currently Building
+## My Projects
 
-- GitOps pipeline — Gitea + ArgoCD + K3s
-- Terraform for Proxmox and Azure
-- Azure Arc — registering the K3s cluster for hybrid cloud management
-- `homelab-ops` — public repo with all manifests, IaC and architecture docs *(coming soon)*
+| Project | Description |
+|---------|-------------|
+| [k3s-manifest-generator](https://github.com/AdrianStudio/k3s-manifest-generator) | Python CLI that generates Kubernetes manifests and deploys via GitOps — Gitea + ArgoCD + K3s |
+| [argocd-k3s-gitea](https://github.com/AdrianStudio/argocd-k3s-gitea) | Step-by-step guide to deploy ArgoCD on K3s and connect it with Gitea |
+| homelab-ops *(coming soon)* | Full homelab documentation — Proxmox, K3s, self-hosted services, IaC and architecture |
 
-&nbsp;
+---
 
-## Certifications
+## GitHub Stats
 
-- **AZ-900** Microsoft Azure Fundamentals — April 2026
-- **AZ-104** Microsoft Azure Administrator — In Progress
-- **CKA** Certified Kubernetes Administrator — In Progress
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianStudio&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianStudio&layout=compact&theme=dark&hide_border=true)
 
-&nbsp;
+---
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-tamargo)
-[![Email](https://img.shields.io/badge/adrian@tamargo.dev-D14836?style=flat&logo=maildotru&logoColor=white)](mailto:adrian@tamargo.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-daniel-tamargo-miller-35a017355)
+[![Email](https://img.shields.io/badge/tadri05m@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tadri05m@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AdrianStudio)
