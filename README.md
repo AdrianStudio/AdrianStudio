@@ -14,7 +14,7 @@ British and Spanish. Native in both.
 
 ### homelab-as-code *(in progress)*
 
-Everything I need to rebuild my entire homelab from scratch if the hardware burns tomorrow. Proxmox VE hypervisor, 12 LXC/VM services, 3-node K3s cluster on Raspberry Pi, GitOps pipelines, observability, and networking, all as code from a single Ubuntu Server VM.
+Everything I need to rebuild my entire homelab from scratch if the hardware burns tomorrow. Three bare-metal Proxmox nodes (EliteDesk 600 G2 + two ProDesk 400 G3s), 12 LXC/VM services, a K3s cluster, GitOps pipelines, observability, and networking, all as code from a single repo. Three layers: Terraform creates the VMs, Ansible configures them, ArgoCD deploys the services.
 
 https://github.com/AdrianStudio/homelab-as-code
 
@@ -40,7 +40,7 @@ https://github.com/AdrianStudio/argocd-k3s-gitea
 
 ## The Homelab
 
-Proxmox VE on an HP EliteDesk. 12 LXC containers and VMs running Gitea, Nextcloud, Vaultwarden, Pi-hole, Uptime Kuma, Jellyfin, and more. A 3-node K3s cluster on Raspberry Pi 4 with ArgoCD, Prometheus, Grafana, and Ingress NGINX. Tailscale mesh VPN and Cloudflare Tunnel on tamargo.dev.
+Three bare-metal nodes: an HP EliteDesk 600 G2 as Proxmox master and two HP ProDesk 400 G3s as workers. 12 LXC containers and VMs running Gitea, Nextcloud, Vaultwarden, Pi-hole, Uptime Kuma, and more. K3s cluster with ArgoCD syncing from GitHub, Prometheus, Grafana, Traefik, and Ingress NGINX. Tailscale mesh VPN and Cloudflare Tunnel on tamargo.dev.
 
 I use it daily to test infrastructure changes before applying them at work.
 
