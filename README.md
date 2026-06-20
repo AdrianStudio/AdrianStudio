@@ -18,6 +18,12 @@ Everything I need to rebuild my entire homelab from scratch if the hardware burn
 
 https://github.com/AdrianStudio/homelab-as-code
 
+### azure-lab-projects *(in progress)*
+
+Architecture-focused Azure labs built while studying for the AZ-305 certification. Each project starts with a real business scenario, walks through the design decisions with their trade-offs, and ends with a working deployment. First completed project covers RBAC and Key Vault, including the management plane vs data plane separation that most teams get wrong.
+
+https://github.com/AdrianStudio/azure-lab-projects
+
 ### k3s-manifest-generator
 
 Python CLI that generates Kubernetes manifests (Deployment, Service, Ingress) via interactive prompt and commits them directly to Gitea, triggering ArgoCD auto-sync to K3s. Cut new service deployments from 15 to 20 minutes of manual YAML to under 2 minutes.
@@ -51,13 +57,4 @@ I use it daily to test infrastructure changes before applying them at work.
 | Cert | Status |
 |------|--------|
 | AZ-900: Microsoft Azure Fundamentals | Obtained |
-| AZ-104: Microsoft Azure Administrator | In Progress |
-| CKA: Certified Kubernetes Administrator | In Progress |
-| Cambridge C1 Advanced (English) | Obtained |
-
----
-
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-tamargo)
-[![Email](https://img.shields.io/badge/tadri05m@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tadri05m@gmail.com)
+|
