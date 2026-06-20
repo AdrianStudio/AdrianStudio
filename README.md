@@ -57,4 +57,14 @@ I use it daily to test infrastructure changes before applying them at work.
 | Cert | Status |
 |------|--------|
 | AZ-900: Microsoft Azure Fundamentals | Obtained |
-|
+| AZ-305: Microsoft Azure Solutions Architect Expert | Studying |
+| AZ-104: Microsoft Azure Administrator | Planned |
+| CKA: Certified Kubernetes Administrator | Planned (Q4 2026) |
+| Cambridge C1 Advanced (English) | Obtained |
+
+---
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-tamargo)
+[![Email](https://img.shields.io/badge/tadri05m@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tadri05m@gmail.com)
